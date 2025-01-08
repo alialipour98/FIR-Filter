@@ -16,12 +16,6 @@ This project demonstrates the implementation of a Finite Impulse Response (FIR) 
 4. **Flexibility**  
    - Can approximate almost any frequency response, supporting a wide range of applications.
 
-The filter processes an input signal using the equation:
-
-\[
-y[n] = \sum_{k=0}^{N-1} h[k] \cdot x[n-k]
-\]
-
 ## Project Explanation
 
 ### Implementation
